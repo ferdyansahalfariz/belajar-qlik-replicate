@@ -1,0 +1,20 @@
+services:
+  mysql:
+    image: mysql
+    restart: no
+    environment:
+      MYSQL_DATABASE: ferdy
+      MYSQL_USER: ferdy
+      MYSQL_PASSWORD: ferdy
+      MYSQL_ROOT_PASSWORD: ferdy
+    ports:
+      - '3306:3306'
+    volumes:
+      - db_data:/var/lib/mysql
+    command: [
+      "--server-id=1",
+      "--log-bin=mysql-bin",
+      "--binlog-format=ROW"
+    ]
+volumes:
+  db_data:
