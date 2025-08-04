@@ -12,6 +12,8 @@
 
 [6. Bidirectional](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/6.%20Bidirectional.md)
 
+[6. Connect Qlik Replicat to Active Directory (AD)](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/7.%20Connect%20Qlik%20Replicate%20to%20Active%20Directory%20(AD).md)
+
 ## Docker Compose Untuk datasource:
 
 [MYSQL](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/compose.mysql.yaml)
