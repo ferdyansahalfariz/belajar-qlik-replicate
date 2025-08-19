@@ -14,6 +14,8 @@
 
 [7. Connect Qlik Replicat to Active Directory (AD)](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/7.%20Connect%20Qlik%20Replicate%20to%20Active%20Directory%20(AD).md)
 
+[8. Log Stream](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/8.%20Log%20Stream.md)
+
 ## Docker Compose Untuk datasource:
 
 [MYSQL](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/compose.mysql.yaml)
