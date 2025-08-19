@@ -16,8 +16,20 @@
 
 [8. Log Stream](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/8.%20Log%20Stream.md)
 
-## Docker Compose Untuk datasource:
+# Qlik Enterprise Manager (QEM)
+
+[1. Introduction QEM](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/Qlik%20Enterprise%20Manager/1.%20Introduction%20QEM.md)
+
+[2. Install QEM](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/Qlik%20Enterprise%20Manager/2.%20Install%20QEM.md)
+
+[3. Connect to Replicate Server](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/Qlik%20Enterprise%20Manager/3.%20Connect%20to%20Replicate%20server.md)
+
+[4. Enterprise Manager REST API](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/Qlik%20Enterprise%20Manager/4.%20Enterprise%20Manager%20REST%20API.md)
+
+# Docker Compose Untuk datasource:
 
 [MYSQL](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/compose.mysql.yaml)
 
 [Postgresql](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/compose.postgres.yaml)
+
+[Sql Server](https://github.com/ferdyansahalfariz/belajar-qlik-replicate/blob/main/compose.sqlserver.yaml)
